@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["7W4U5RR9QZ.org.larner.SFTransitWatch.watchkitapp"],
+        "components": [
+          {
+            "/": "/sftransitwatch/key",
+            "comment": "Register a 511 API key on the SF Transit Watch app"
+          }
+        ]
+      }
+    ]
+  }
+}
