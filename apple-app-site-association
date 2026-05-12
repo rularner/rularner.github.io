@@ -7,6 +7,10 @@
           {
             "/": "/sftransitwatch/key",
             "comment": "Register a 511 API key on the SF Transit Watch app"
+          },
+          {
+            "/": "/sftransitwatch/wt",
+            "comment": "Register a worker key on the SF Transit Watch app"
           }
         ]
       }
