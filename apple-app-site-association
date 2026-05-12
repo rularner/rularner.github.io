@@ -2,7 +2,10 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["7W4U5RR9QZ.org.larner.SFTransitWatch.watchkitapp"],
+        "appIDs": [
+	    "7W4U5RR9QZ.org.larner.SFTransitWatch",
+            "7W4U5RR9QZ.org.larner.SFTransitWatch.watchkitapp"
+	],
         "components": [
           {
             "/": "/sftransitwatch/key",
